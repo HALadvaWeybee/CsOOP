@@ -236,8 +236,8 @@ namespace CsOOP
         {
             // Access specifier
             Child c = new Child();
-            ProtectedTest pt = new ProtectedTest();
-            Console.WriteLine(pt.name);
+            //ProtectedTest pt = new ProtectedTest();
+            //Console.WriteLine(pt.name);
             c.display();
            
 
